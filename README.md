@@ -48,3 +48,36 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+### CREACIÓN DEL PROYECTO - COMANDOS QUE USE
+
+https://www.youtube.com/watch?v=wb6xKsdXfOw&ab_channel=angeloDev
+
+https://nodejs.org/es
+
+npx create-expo-app proy1-react-native-04032025
+
+expo --version
+
+node -v
+
+npm -v
+
+npm install -g npm@latest
+
+npx expo start
+
+### CODIGO PARA SUBIR
+
+git init
+
+git add .
+
+git commit -m "Archivos iniciales"
+
+git branch -M master
+
+git remote add origin https://github.com/jesussoria12/proy1-rn-04032025.git
+
+git push -u origin master
